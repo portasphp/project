@@ -1,0 +1,7 @@
+{
+    "name": "portas/project",
+    "description": "The Portas project.",
+    "type": "project",
+    "license": "proprietary",
+    "require": {}
+}
